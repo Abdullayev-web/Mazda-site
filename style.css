@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.site {
+    width: 1800px;
+    height: 1306px;
+    background: #14141B;
+    border: 3px solid black;
+    margin: 50px auto;
+}
